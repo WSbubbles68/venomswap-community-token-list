@@ -326,5 +326,13 @@
     "name": "ToddToken",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/TODD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xC41A72b3c9C1eA9EAA1f246De686458bEF2AC0ea",
+    "symbol": "GMO",
+    "name": "Gizmo",
+    "decimals": 18,
+    "logoURI": "https://icons8.com/icon/21720/gizmo"
   }
 ]
