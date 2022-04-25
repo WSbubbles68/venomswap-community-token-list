@@ -318,5 +318,13 @@
     "name": "UBOND",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xE59F937573D8dDdC44c699945B66401a4F4c05b0",
+    "symbol": "TODD",
+    "name": "ToddToken",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/TODD.png"
   }
 ]
